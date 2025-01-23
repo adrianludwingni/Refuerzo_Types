@@ -42,7 +42,7 @@ export const Usuarios = () => {
     }
     return (
         <div>
-            <h3>Lista de Usuarios</h3>
+            <h3>ListaUsuarios</h3>
             <table className="table">
                 <thead>
                     <tr>
